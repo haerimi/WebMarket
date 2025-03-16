@@ -27,24 +27,24 @@
 제품에 대한 정보 교환 및 사용자들의 경험을 나누고, 보다 친밀한 사용자 경험을 제공합니다.<br>
 
 ## 주요 기능 <br>
-###✅ 상품 목록 및 상세 정보 확인 <br>
+### ✅ 상품 목록 및 상세 정보 확인 <br>
 - 사용자는 다양한 상품을 목록에서 확인하고, 각 상품의 상세 정보를 열람할 수 있습니다. <br>
 - 상품에 대한 가격, 설명, 리뷰 등을 제공하여 소비자들이 구매 결정을 내릴 수 있도록 돕습니다.<br>
 ![image](https://github.com/user-attachments/assets/28eea188-3340-4561-96e8-33a25352c212) <br>
 ![image](https://github.com/user-attachments/assets/a6a489ee-7fb3-410d-9779-d68188b65957) <br>
 
-###✅ 장바구니 기능 및 결제<br>
+### ✅ 장바구니 기능 및 결제<br>
 - 사용자는 원하는 상품을 장바구니에 담고, 결제 절차를 통해 쇼핑을 완료할 수 있습니다. <br>
 - 결제 과정은 직관적이고 간편하게 설계되어, 고객이 결제 과정에서 겪을 수 있는 불편함을 최소화합니다.<br>
 ![image](https://github.com/user-attachments/assets/aad6501b-cdf2-4ed8-aa67-b2e0e39b194c)<br>
 ![image](https://github.com/user-attachments/assets/17dd329e-ee23-4604-908f-a5b1a417a871)<br>
 
-###✅ 커뮤니티<br>
+### ✅ 커뮤니티<br>
 - 온라인 커뮤니티 기능을 통해 사용자들이 서로 경험과 지식을 공유할 수 있습니다. <br>
 - 사용자들은 상품에 대한 리뷰를 남기거나, 다른 사용자들과 의견을 교환하며, 구매에 대한 유용한 정보를 얻을 수 있습니다.<br>
 ![image](https://github.com/user-attachments/assets/2f54ad52-a012-41c4-868d-2d7e79efc420) <br>
 
-###✅ 사용자/관리자 분리<br>
+### ✅ 사용자/관리자 분리<br>
 - 사용자와 관리자 계정을 분리하여, 관리자만 상품 관리 및 주문 처리를 할 수 있도록 권한을 설정합니다. <br>
 - 이를 통해 상품 등록, 수정, 삭제가 용이하게 이루어지며, 관리자는 효율적으로 쇼핑몰을 운영할 수 있습니다. <br>
 ![image](https://github.com/user-attachments/assets/b20dec75-bda6-4d62-9b17-2e441b408045) <br>
