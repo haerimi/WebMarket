@@ -50,7 +50,7 @@
 ![image](https://github.com/user-attachments/assets/b20dec75-bda6-4d62-9b17-2e441b408045) <br>
 ![image](https://github.com/user-attachments/assets/c8dfc75d-77c2-4c53-9f68-b5d2f1f4b843) <br>
 
-## 개발 환경
+## 기술 스택
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
